@@ -1,3 +1,9 @@
 [submodule "sources/meta-openembedded"]
 	path = sources/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded
+[submodule "sources/meta-raspberrypi"]
+	path = sources/meta-raspberrypi
+	url = https://github.com/agherzan/meta-raspberrypi
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://github.com/yoctoproject/poky
